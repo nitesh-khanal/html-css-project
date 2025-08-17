@@ -35,6 +35,11 @@ header {
   font-size: 1.8rem;
   font-weight: 700;
   margin: 0;
+  text-decoration: none;
+  color: #ffffff;
+}
+.header-left a{
+  text-decoration: none;
 }
 
 .header-right {
